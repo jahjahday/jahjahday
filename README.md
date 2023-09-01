@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agwa Anthony Uche 
+- 👋 Hi, I’m Uche Anthony Agwa
 - 👀 I’m interested in growing my career as a software engineer.
 - 🌱 I’m currently learning QraphQL / Apollo Client and Python3 as well.
 - 💞️ I’m looking to collaborate on Project that will push me to my limit
